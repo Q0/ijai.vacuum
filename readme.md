@@ -4,7 +4,6 @@
 
 ## Поддерживаемые модели
 
-* ijai.vacuum.v1
 * ijai.vacuum.v2
 * ijai.vacuum.v3
 
@@ -18,7 +17,6 @@
 4. Перезапустить Mi Home.
 5. В файлах телефона найти директорию /vevs/automations/ и добавить в нее файл модели вашего устройства из перечисленных:
    
-   [ijai.vacuum.v1.json](https://github.com/Q0/ijai.vacuum/raw/master/ijai.vacuum.v1.json) для Xiaomi Mijia MJSTS1 Pro
    
    [ijai.vacuum.v2.json](https://github.com/Q0/ijai.vacuum/raw/master/ijai.vacuum.v2.json) для Xiaomi Mijia LDS Vacuum Cleaner Robot 2 MJST1S
 
