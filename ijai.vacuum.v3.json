@@ -173,8 +173,8 @@
       {
          "sa_id":3023,
          "model":"ijai.vacuum.v3",
-         "name":"Install Spazzy_Maxim_Ru_vol voicepack",
-         "keyName":"Install Spazzy_Maxim_Ru_vol voicepack",
+         "name":"Install Maxim Spazzy voicepack",
+         "keyName":"Install Maxim Spazzy voicepack",
          "type":0,
          "groupInfo":[
 
@@ -192,7 +192,7 @@
                   },
                   {
                      "piid":5,
-                     "value":"https://github.com/yuri-karpovich/ijai.vacuum/raw/master/audio/Spazzy_Maxim_Ru_vol.zip"
+                     "value":"https://github.com/Q0/ijai.vacuum/raw/master/audio/maxim_spazzy_ru.zip"
                   },
                   {
                      "piid":6,
@@ -226,7 +226,7 @@
                   },
                   {
                      "piid":5,
-                     "value":"https://github.com/yuri-karpovich/ijai.vacuum/raw/master/audio/alice.zip"
+                     "value":"https://github.com/Q0/ijai.vacuum/raw/master/audio/alice.zip"
                   },
                   {
                      "piid":6,
