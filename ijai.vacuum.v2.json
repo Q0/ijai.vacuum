@@ -169,6 +169,74 @@
             }
          },
          "protocol_type":2
+      },
+      {
+         "sa_id":3024,
+         "model":"ijai.vacuum.v2",
+         "name":"Install Maxim Spazzy voicepack",
+         "keyName":"Install Maxim Spazzy voicepack",
+         "type":0,
+         "groupInfo":[
+
+         ],
+         "tr_id":201,
+         "payload":{
+            "did":"",
+            "command":"ijai.vacuum.v2.action",
+            "value":{
+               "aiid":1,
+               "in":[
+                  {
+                     "piid":1,
+                     "value":"ru_RU"
+                  },
+                  {
+                     "piid":5,
+                     "value":"https://github.com/Q0/ijai.vacuum/raw/master/audio/maxim_spazzy_ru.zip"
+                  },
+                  {
+                     "piid":6,
+                     "value":"26e7179383a1b0883fc0e64604a053b6"
+                  }
+               ],
+               "siid":14
+            }
+         },
+         "protocol_type":2
+      },
+      {
+         "sa_id":3024,
+         "model":"ijai.vacuum.v2",
+         "name":"Install alice voicepack",
+         "keyName":"Install alice voicepack",
+         "type":0,
+         "groupInfo":[
+
+         ],
+         "tr_id":201,
+         "payload":{
+            "did":"",
+            "command":"ijai.vacuum.v2.action",
+            "value":{
+               "aiid":1,
+               "in":[
+                  {
+                     "piid":1,
+                     "value":"ru_RU"
+                  },
+                  {
+                     "piid":5,
+                     "value":"https://github.com/Q0/ijai.vacuum/raw/master/audio/alice.zip"
+                  },
+                  {
+                     "piid":6,
+                     "value":"56a75597de3185a69bab29fa0d3cd98e"
+                  }
+               ],
+               "siid":14
+            }
+         },
+         "protocol_type":2
       }
    ]
 }
