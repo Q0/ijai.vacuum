@@ -171,7 +171,7 @@
          "protocol_type":2
       },
       {
-         "sa_id":3023,
+         "sa_id":3025,
          "model":"ijai.vacuum.v3",
          "name":"Install Maxim Spazzy voicepack",
          "keyName":"Install Maxim Spazzy voicepack",
@@ -205,7 +205,7 @@
          "protocol_type":2
       },
       {
-         "sa_id":3023,
+         "sa_id":3026,
          "model":"ijai.vacuum.v3",
          "name":"Install alice voicepack",
          "keyName":"Install alice voicepack",
